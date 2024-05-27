@@ -9,7 +9,7 @@ A simple and clean age calculator made with React, Tailwind, Vite.
 Clone the project
 
 ```bash
-  git clone https://github.com/itsrafsanjani/react-age-calculator
+  git clone https://github.com/dipenpatel0017/react-age-calculator
 ```
 
 Go to the project directory
