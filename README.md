@@ -45,8 +45,8 @@ Start the server
 ```bash
   yarn dev
 ```
-
-
+### Output:-
+![Screenshot 2024-05-27 145100](https://github.com/dipenpatel0017/react-age-calculator/assets/154975783/c6cb5165-0fb7-4fb9-b000-f7929f6d262e)
   
 ## Support
 
