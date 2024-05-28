@@ -47,6 +47,15 @@ Start the server
 ```
 ### Output:-
 ![Screenshot 2024-05-27 145100](https://github.com/dipenpatel0017/react-age-calculator/assets/154975783/c6cb5165-0fb7-4fb9-b000-f7929f6d262e)
+
+### Additional Features
+To extend this application, you might consider adding:
+
+- Validation to ensure a valid date is entered.
+- Better handling for edge cases (e.g., dates in the future).
+- Additional styling and layout improvements.
+- Displaying the calculated age in years, months, and days for more detail.
+- This basic example demonstrates how to handle user input, perform calculations based on dates, and update the UI accordingly in React.
   
 ## Support
 
