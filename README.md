@@ -2,7 +2,8 @@
 # React Age Calculator
 
 A simple and clean age calculator made with React, Tailwind, Vite.
-Creating an age calculator in React involves several steps. Here's a step-by-step guide to help you build a basic age calculator:-
+Creating an age calculator in React involves several steps. Here's a step-by-step guide to help you build a basic age calculator
+The calculator using to the disided the how age are you?
 
 ## Run it in your device
 
