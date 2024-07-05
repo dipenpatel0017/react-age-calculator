@@ -2,7 +2,7 @@
 # React Age Calculator
 
 A simple and clean age calculator made with React, Tailwind, Vite.
-Creating an age calculator in React involves several steps. Here's a step-by-step guide to help you build a basic age calculator
+Creating an age calculator in React involves several steps. Here's a step-by-step guide to help you build a basic age calculator.
 The calculator using to the disided the how age are you?
 
 ## Run it in your device
@@ -13,7 +13,7 @@ Clone the project
   git clone https://github.com/dipenpatel0017/react-age-calculator
 ```
 
-Go to the project directory
+--> Go to the project directory
 
 ```bash
   cd react-age-calculator
@@ -21,13 +21,13 @@ Go to the project directory
 
 ### Or you can just download it as zip, then
 
-Install dependencies
+--> Install dependencies
 
 ```bash
   npm install 
 ```
 
-Start the server
+--> Start the server
 
 ```bash
   npm run dev
@@ -35,13 +35,13 @@ Start the server
 
 ### Or if you are yarn user,
 
-Install dependencies
+--> Install dependencies
 
 ```bash
   yarn install
 ```
 
-Start the server
+--> Start the server
 
 ```bash
   yarn dev
